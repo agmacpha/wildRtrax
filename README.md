@@ -28,10 +28,10 @@ devtools::install_github("ABbiodiversity/wildRtrax")
 
 ## Overview
 
-The **wildRtrax** package provides a set of functions to query
+The **wildRtrax** package provides a set of functions to manage
 environmental sensor data from the [WildTrax
 platform](https://www.wildtrax.ca/home.html), as well as perform basic
-data cleaning, analysis, and quality control in R.
+data cleaning, analysis, and quality control of data in R.
 
 ## Issues
 
